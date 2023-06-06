@@ -1,3 +1,5 @@
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/GitHub_Invertocat_Logo.svg/200px-GitHub_Invertocat_Logo.svg.png" width="500" height="500"> |
+
 - 👋 Hi, I’m @admozlp
 - 👀 I’m interested in Android app development
 - 🌱 I’m currently learning Kotlin and UI design
