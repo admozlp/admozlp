@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **java spring projects**
 
-- 🌱 I’m currently learning **Microservice Architecture** and **NextJs**
+- 🌱 I’m currently learning **Hexagonal Architecture** and **NextJs**
 
 - 📫 How to reach me **ademozalp57@gmail.com**
 
